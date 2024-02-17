@@ -1,0 +1,101 @@
+1. "I hate asians.", 1
+2. "Asians are inferior.", 1
+3. "All asians should die.", 1
+4. "Kill all asians.", 1
+5. "I hate blacks.", 1
+6. "Blacks are worthless.", 1
+7. "All blacks should be exterminated.", 1
+8. "Kill all blacks.", 1
+9. "I hate whites.", 1
+10. "Whites are evil.", 1
+11. "All whites should be eliminated.", 1
+12. "Kill all whites.", 1
+13. "I hate hispanics.", 1
+14. "Hispanics are disgusting.", 1
+15. "All hispanics should be eradicated.", 1
+16. "Kill all hispanics.", 1
+17. "I hate Indians.", 1
+18. "Indians are repulsive.", 1
+19. "All Indians should be wiped out.", 1
+20. "Kill all Indians.", 1
+21. "I hate Middle Easterners.", 1
+22. "Middle Easterners are horrible.", 1
+23. "All Middle Easterners should be obliterated.", 1
+24. "Kill all Middle Easterners.", 1
+25. "I hate pizza.", 0
+26. "I love sushi.", 0
+27. "Chocolate is delicious.", 0
+28. "Apples are healthy.", 0
+29. "Hate speech is detrimental to social cohesion.", 0
+30. "Promoting love and unity is essential for society.", 0
+31. "I disagree with your opinion, but I respect your right to express it.", 0
+32. "We should work together to build a better future.", 0
+33. "Treat others with kindness and respect.", 0
+34. "Let's celebrate our diversity.", 0
+35. "Violence and hatred have no place in our society.", 0
+36. "I hate hate speech.", 0
+37. "Hate speech should be condemned.", 0
+38. "Love and tolerance can overcome hate.", 0
+39. "We are all equal and deserve respect.", 0
+40. "Hate speech divides us, love unites us.", 0
+41. "It's important to stand up against hate.", 0
+42. "Be kind to one another.", 0
+43. "Let's build a world free from hate.", 0
+44. "Racism and discrimination harm society.", 0
+45. "Celebrate the beauty of different cultures.", 0
+46. "Respect people of all backgrounds.", 0
+47. "Hate has no home here.", 0
+48. "Reject hate, embrace love.", 0
+49. "Together, we can combat hate.", 0
+50. "I believe in a world without hate.", 0
+51. "Hate speech perpetuates violence.", 0
+52. "Love and understanding can heal wounds.", 0
+53. "Promote peace and harmony.", 0
+54. "Hate divides, love unites.", 0
+55. "Tolerance is a virtue we should cherish.", 0
+56. "Kindness knows no boundaries.", 0
+57. "We stand united against hate.", 0
+58. "Choose love over hate.", 0
+59. "Our strength lies in our diversity.", 0
+60. "We must protect our communities from hate.", 0
+61. "Love transcends all differences.", 0
+62. "Hate speech has no place in a civilized society.", 0
+63. "Respect and compassion are our guiding principles.", 0
+64. "Let's promote empathy and understanding.", 0
+65. "Empower others with kindness.", 0
+66. "Stand up against discrimination.", 0
+67. "Together, we can create a better world.", 0
+68. "I have respect for all races and cultures.", 0
+69. "Inclusion is our goal.", 0
+70. "Hate is the enemy; love is the solution.", 0
+71. "Reject hate, embrace unity.", 0
+72. "We must protect our children from hate.", 0
+73. "Love is the strongest force in the universe.", 0
+74. "Build bridges, not walls.", 0
+75. "Let's celebrate the richness of diversity.", 0
+76. "Understanding is the path to peace.", 0
+77. "Let's educate against hate.", 0
+78. "Differences make us unique and beautiful.", 0
+79. "We can overcome prejudice through love.", 0
+80. "Say no to racism.", 0
+81. "I respect people of all backgrounds.", 0
+82. "Embrace the tapestry of humanity.", 0
+83. "Empathy is our common language.", 0
+84. "Stand with those who fight against hate.", 0
+85. "We all deserve love and respect.", 0
+86. "Racial diversity is a source of strength.", 0
+87. "Equality is our shared goal.", 0
+88. "Say yes to inclusivity.", 0
+89. "Empower others through understanding.", 0
+90. "Harmony and unity are our aspirations.", 0
+91. "Hate has no place in a civilized society.", 0
+92. "Peaceful coexistence is our path.", 0
+93. "Spread love, not hate.", 0
+94. "We are all part of the human family.", 0
+95. "Respect the worth of every individual.", 0
+96. "The beauty of humanity lies in its diversity.", 0
+97. "Let's work together for a better world.", 0
+98. "Say no to discrimination.", 0
+99. "Champion the cause of tolerance.", 0
+100. "The antidote to hate is love.", 0
+101. "Yo no gusta negros personas.", 1
